@@ -98,3 +98,16 @@ main {
 .column-card h3, .column-card p {
     display: inline-block;
 }
+
+.column-card i {margin: 0.5em 0.2em 0.5em 0;}
+.column-card p {margin-right: 0.5em;}
+
+/* .column-card h4::before {
+    content: "-";
+    font-size: 40px;
+    line-height: 20px;
+    background-color: red;
+    border-radius: 10px;
+    color: red;
+    transform: rotate(90deg);
+} */
