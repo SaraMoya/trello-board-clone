@@ -22,6 +22,8 @@ header button {
 header input {
     height: 3em;
     width: 210px;
+    background-color: rgb(250, 250, 250, 0.6);
+    border: none;
 }
 
 header div {
@@ -62,6 +64,8 @@ main {
 
 .fa-search {
     align-self: center;
+    position: relative;
+    right: 30px;
 }
 
 .column-card {
